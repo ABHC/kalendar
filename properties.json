@@ -1,0 +1,57 @@
+{
+	"name": "kalendar",
+	"file" : "kalendar.py",
+
+	"tables": [
+			{
+				"sources_table_name": "sources_kalendar_serge"
+			},
+			{
+				"inquiries_table_name": "inquiries_kalendar_serge"
+			},
+			{
+				"results_table_name": "results_kalendar_serge"
+			},
+			{
+				"optionnal_tables_names": [
+					null
+				]
+			}
+	],
+
+	"label": [
+			{
+				"content": [
+					{
+						"EN": "kalendar"
+					},
+					{
+						"FR": "kalendar"
+					},
+					{
+						"ES": "kalendar"
+					},
+					{
+						"DE": "kalendar"
+					},
+					{
+						"CN": null
+					}
+				]
+			},
+			{
+				"color": "#cc6600"
+			},
+			{
+				"text_color": "#ffffff"
+			}
+	],
+
+	"dependencies": [
+		"re",
+		"time",
+		"logging",
+		"datetime",
+		"os"
+	]
+}
