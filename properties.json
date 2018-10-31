@@ -1,6 +1,10 @@
 {
 	"name": "kalendar",
-	"file" : "kalendar.py",
+	"main file" : "kalendar.py",
+
+	"additional files" : [
+		null
+	],
 
 	"tables": [
 			{
